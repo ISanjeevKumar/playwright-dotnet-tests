@@ -6,7 +6,7 @@ dotnet build
 dotnet test
 ```
 
-#VSCODE Dotnet FAQ
+## VSCODE Dotnet FAQ
 
 ## How to add class library project to the Solution
 ```
