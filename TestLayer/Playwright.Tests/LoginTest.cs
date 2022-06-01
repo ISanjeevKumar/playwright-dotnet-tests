@@ -12,7 +12,9 @@ public class LoginTest
     [Test]
     public void ShouldBeAbleToLogin()
     {
-        App app = new App();
-        Assert.Pass();
+        using (App app = new App())
+        {
+            app.LoginPage.login("", "");
+        }
     }
 }
