@@ -1,2 +1,8 @@
 /.DS_Store
 /.vscode
+DataModel/Playwright.DataModel/bin/
+DataModel/Playwright.DataModel/obj/
+PageLayer/Playwright.Page.Objects/bin/
+PageLayer/Playwright.Page.Objects/obj/
+TestLayer/Playwright.Tests/bin/
+TestLayer/Playwright.Tests/obj/
