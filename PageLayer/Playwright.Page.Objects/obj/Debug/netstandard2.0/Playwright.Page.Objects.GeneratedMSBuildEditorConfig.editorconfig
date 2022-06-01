@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Playwright.Page.Objects
+build_property.ProjectDir = /Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/PageLayer/Playwright.Page.Objects/

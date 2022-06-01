@@ -1,0 +1,10 @@
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/bin/Debug/netstandard2.0/Playwright.DataModel.deps.json
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/bin/Debug/netstandard2.0/Playwright.DataModel.dll
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/bin/Debug/netstandard2.0/Playwright.DataModel.pdb
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.csproj.AssemblyReference.cache
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.AssemblyInfoInputs.cache
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.AssemblyInfo.cs
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.csproj.CoreCompileInputs.cache
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.dll
+/Users/sanjeev.kumar1/Documents/Github/playwright-dotnet-tests/DataModel/Playwright.DataModel/obj/Debug/netstandard2.0/Playwright.DataModel.pdb
